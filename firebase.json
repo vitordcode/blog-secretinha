@@ -1,0 +1,6 @@
+{
+    "hosting": {
+        "site": "https://blogsecretinha.web.app",
+        "public": "public"
+    }
+}
